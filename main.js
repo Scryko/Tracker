@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'https://esm.sh/react@18.2.0';
-import ReactDOM from 'https://esm.sh/react-dom@18.2.0/client';
+import React, { useState, useEffect } from 'react';
+import ReactDOM from 'react-dom/client';
 
 const App = () => {
     const [weight, setWeight] = useState(75);
